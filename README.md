@@ -1,28 +1,37 @@
 # Hi, I'm Ryan 👋
 
-Founding engineer partnering with early-stage companies to solve business problems through hands-on software development, technical architecture, and team building.
+I help companies build products and the technical foundations that enable them to grow. My work focuses on solving business problems through practical, durable systems that balance speed, cost, and maintainability.
+
+For more than a decade, I’ve led engineering efforts in regulated industries, designing distributed systems, improving delivery, and helping teams scale with confidence.
+
+Focus areas:
+
+- Establishing clear, scalable technical foundations
+- Simplifying complex systems while preserving capability
+- Using AI and automation where they create real leverage
+- Developing and mentoring strong engineering teams
 
 ## 🚀 What I'm building
 
 - **With startups** → Fractional founding engineer for energy, fintech, and healthcare companies
 
-## 🔄 Development Workflow
-
-- **💻 Execution:** [Claude Code](https://www.anthropic.com/claude-code) · [Cursor](https://cursor.com)
-- **✅ Review:** [CodeRabbit](https://coderabbit.ai) · [Graphite](https://graphite.dev)
-- **📋 Planning:** [Linear](https://linear.app) · [Excalidraw](https://excalidraw.com) · [Obsidian](https://obsidian.md)
-
 ## 🛠️ Current Stack
 
-- **🐍 Python:** [Hugging Face](http://huggingface.co/) · [Polars](https://pola.rs) · [FastAPI](https://fastapi.tiangolo.com) · [SQLModel](https://sqlmodel.tiangolo.com)
-- **🩵 Go:** [Echo](https://echo.labstack.com) · [Fx](https://uber-go.github.io/fx/) · [sqlc](https://sqlc.dev)
-- **📘 TypeScript:** [React](https://react.dev) · [GraphQL](https://graphql.org)
-- **🗄️ Data & Messaging:** [PostgreSQL](https://postgresql.org) · [TimescaleDB](https://timescale.com) · [NATS](https://nats.io) · [Temporal](https://temporal.io) · [Atlas](https://atlasgo.io)
+- **📱 App Development:** [React](https://react.dev) · [FastAPI](https://fastapi.tiangolo.com) · [Echo](https://echo.labstack.com) · [Fx](https://uber-go.github.io/fx/)
+- **📈 Processing:** [Polars](https://pola.rs) · [Hugging Face](http://huggingface.co/) · [Temporal](https://temporal.io) · [NATS](https://nats.io)
+- **🗄️ Storage:** [PostgreSQL](https://postgresql.org) · [TimescaleDB](https://www.tigerdata.com/timescaledb) · [Atlas](https://atlasgo.io) · [sqlc](https://sqlc.dev)
 - **☁️ Infrastructure:** [GCP](https://cloud.google.com) · [Cloudflare](https://cloudflare.com) · [Kubernetes](https://kubernetes.io)
-- **🔧 DevOps:** [Terraform](https://terraform.io) · [Pulumi](https://pulumi.com) · [Nix](https://nixos.org/)
+- **⚙️ DevOps:** [Terraform](https://terraform.io) · [Pulumi](https://pulumi.com) · [Nix](https://nixos.org/)
 
 ## 🏠 Home Lab
+
 - **📦 Compute:** [k3s](https://k3s.io/) cluster running [NixOS](https://nixos.org/) on [Beelink SER8](https://www.bee-link.com/products/beelink-ser8-8845hs) nodes
 - **🛜 Network:** [UniFi](https://ui.com) hardware with [Tailscale](https://tailscale.com/) for device connectivity
 - **🤖 Automation:** Fully automated home running [Home Assistant](https://home-assistant.io)
-- **💼 Workspace:** [Macbook Pro M2 Max](https://www.apple.com/macbook-pro/) · [Alienware 32" 4K@240Hz](https://www.rtings.com/monitor/reviews/dell/alienware-aw3225qf) · [LG UltraFine 27" 5K@60Hz](https://www.lg.com/us/monitors/lg-27md5kl-b-5k-uhd-led-monitor) · [Keychron K2 HE](https://www.keychron.com/products/keychron-k2-he-wireless-magnetic-switch-keyboard)
+- **🖥️ Workstation:** [Macbook Pro M2 Max](https://www.apple.com/macbook-pro/) · [Alienware 32" 4K@240Hz](https://www.rtings.com/monitor/reviews/dell/alienware-aw3225qf) · [LG UltraFine 27" 5K@60Hz](https://www.lg.com/us/monitors/lg-27md5kl-b-5k-uhd-led-monitor)
+
+## 🔄 Workflow
+
+- **💻 Execution:** [Codex](https://openai.com/codex/) · [Cursor](https://cursor.com)
+- **✅ Review:** [CodeRabbit](https://coderabbit.ai) · [Graphite](https://graphite.dev)
+- **📋 Planning:** [Linear](https://linear.app) · [Excalidraw](https://excalidraw.com) · [Obsidian](https://obsidian.md)
