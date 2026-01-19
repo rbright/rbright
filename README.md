@@ -14,6 +14,7 @@ Focus areas:
 ## 🚀 What I'm building
 
 - **With startups** → Fractional founding engineer for energy, fintech, and healthcare companies
+- **At home** → An LLM-powered conversational [Reachy Mini](https://pollen-robotics-reachy-mini.hf.space/) robot app for my daughter
 
 ## 🛠️ Current Stack
 
@@ -28,10 +29,10 @@ Focus areas:
 - **📦 Compute:** [k3s](https://k3s.io/) cluster running [NixOS](https://nixos.org/) on [Beelink SER8](https://www.bee-link.com/products/beelink-ser8-8845hs) nodes
 - **🛜 Network:** [UniFi](https://ui.com) hardware with [Tailscale](https://tailscale.com/) for device connectivity
 - **🤖 Automation:** Fully automated home running [Home Assistant](https://home-assistant.io)
-- **🖥️ Workstation:** [Macbook Pro M2 Max](https://www.apple.com/macbook-pro/) · [Alienware 32" 4K@240Hz](https://www.rtings.com/monitor/reviews/dell/alienware-aw3225qf) · [LG UltraFine 27" 5K@60Hz](https://www.lg.com/us/monitors/lg-27md5kl-b-5k-uhd-led-monitor)
+- **🖥️ Workstation:** [MacBook Pro M2 Max](https://www.apple.com/macbook-pro/) · [Alienware 32" 4K@240Hz](https://www.rtings.com/monitor/reviews/dell/alienware-aw3225qf) · [LG UltraFine 27" 5K@60Hz](https://www.lg.com/us/monitors/lg-27md5kl-b-5k-uhd-led-monitor)
 
 ## 🔄 Workflow
 
-- **💻 Execution:** [Codex](https://openai.com/codex/) · [Cursor](https://cursor.com)
-- **✅ Review:** [CodeRabbit](https://coderabbit.ai) · [Graphite](https://graphite.dev)
-- **📋 Planning:** [Linear](https://linear.app) · [Excalidraw](https://excalidraw.com) · [Obsidian](https://obsidian.md)
+- **💻 Execution:** [Codex](https://openai.com/codex/) · [Visual Studio Code](https://code.visualstudio.com/) · [Zed](https://zed.dev/)
+- **✅ Review:** [CodeRabbit](https://coderabbit.ai)
+- **📋 Planning:** [Linear](https://linear.app) · [Obsidian](https://obsidian.md) · [Excalidraw](https://excalidraw.com)
