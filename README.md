@@ -14,7 +14,7 @@ Focus areas:
 ## 🚀 What I'm building
 
 - **With startups** → Fractional founding engineer for energy, fintech, and healthcare companies
-- **At home** → An LLM-powered conversational [Reachy Mini](https://pollen-robotics-reachy-mini.hf.space/) robot app for my daughter
+- **At home** → An LLM-powered conversational [Reachy Mini](https://pollen-robotics-reachy-mini.hf.space/) app for my daughter
 
 ## 🛠️ Current Stack
 
@@ -33,6 +33,6 @@ Focus areas:
 
 ## 🔄 Workflow
 
-- **💻 Execution:** [Codex](https://openai.com/codex/) · [Visual Studio Code](https://code.visualstudio.com/) · [Zed](https://zed.dev/)
-- **✅ Review:** [CodeRabbit](https://coderabbit.ai)
+- **💻 Execution:** [Codex](https://openai.com/codex/) · [Codex Monitor](https://www.codexmonitor.app/) · [Zed](https://zed.dev/) · [Visual Studio Code](https://code.visualstudio.com/)
+- **✅ Review:** [CodeRabbit](https://coderabbit.ai) · [Aikido](https://aikido.dev/)
 - **📋 Planning:** [Linear](https://linear.app) · [Obsidian](https://obsidian.md) · [Excalidraw](https://excalidraw.com)
