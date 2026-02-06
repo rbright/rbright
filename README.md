@@ -33,6 +33,6 @@ Focus areas:
 
 ## 🔄 Workflow
 
-- **💻 Execution:** [Codex](https://openai.com/codex/) · [Codex Monitor](https://www.codexmonitor.app/) · [Zed](https://zed.dev/) · [Visual Studio Code](https://code.visualstudio.com/)
+- **💻 Execution:** [Codex](https://openai.com/codex/) · [Claude Code](https://code.claude.com/) · [Conductor](https://www.conductor.build/) · [Zed](https://zed.dev/)
 - **✅ Review:** [CodeRabbit](https://coderabbit.ai) · [Aikido](https://aikido.dev/)
 - **📋 Planning:** [Linear](https://linear.app) · [Obsidian](https://obsidian.md) · [Excalidraw](https://excalidraw.com)
