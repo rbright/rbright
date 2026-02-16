@@ -1,15 +1,18 @@
 # Hi, I'm Ryan 👋
 
-I help companies build products and the technical foundations that enable them to grow. My work focuses on solving business problems through practical, durable systems that balance speed, cost, and maintainability.
+I help companies ship products in environments where security, compliance, reliability, and cost discipline matter. I work from product definition through production release, combining hands-on engineering with strong delivery mechanics and operational controls.
 
-For more than a decade, I’ve led engineering efforts in regulated industries, designing distributed systems, improving delivery, and helping teams scale with confidence.
+My workflow emphasizes automation, parallel execution, and structured guardrails. I use AI deliberately to increase throughput and reduce friction, while keeping verification, observability, and change control central to the process. The goal is simple: higher output without sacrificing correctness or long-term maintainability.
 
 Focus areas:
 
-- Establishing clear, scalable technical foundations
-- Simplifying complex systems while preserving capability
-- Using AI and automation where they create real leverage
-- Developing and mentoring strong engineering teams
+- Product definition and technical strategy
+- AI-augmented engineering and structured automation
+- Distributed systems and platform architecture
+- CI/CD pipelines with enforced quality gates
+- Observability, reliability, and incident response
+- Security, compliance, and audit-ready change management
+- Infrastructure design and cost control
 
 ## 🚀 What I'm building
 
@@ -18,7 +21,7 @@ Focus areas:
 
 ## 🛠️ Current Stack
 
-- **📱 App Development:** [React](https://react.dev) · [FastAPI](https://fastapi.tiangolo.com) · [Echo](https://echo.labstack.com) · [Fx](https://uber-go.github.io/fx/)
+- **📱 Development:** [Go](https://go.dev) · [Python](https://python.org) · [TypeScript](https://www.typescriptlang.org) · [React](https://react.dev) · [FastAPI](https://fastapi.tiangolo.com) · [Chi](https://go-chi.io)
 - **📈 Processing:** [Polars](https://pola.rs) · [Hugging Face](http://huggingface.co/) · [Temporal](https://temporal.io) · [NATS](https://nats.io)
 - **🗄️ Storage:** [PostgreSQL](https://postgresql.org) · [TimescaleDB](https://www.tigerdata.com/timescaledb) · [Atlas](https://atlasgo.io) · [sqlc](https://sqlc.dev)
 - **☁️ Infrastructure:** [GCP](https://cloud.google.com) · [Cloudflare](https://cloudflare.com) · [Kubernetes](https://kubernetes.io)
@@ -26,13 +29,13 @@ Focus areas:
 
 ## 🏠 Home Lab
 
-- **📦 Compute:** [k3s](https://k3s.io/) cluster running [NixOS](https://nixos.org/) on [Beelink SER8](https://www.bee-link.com/products/beelink-ser8-8845hs) nodes
-- **🛜 Network:** [UniFi](https://ui.com) hardware with [Tailscale](https://tailscale.com/) for device connectivity
-- **🤖 Automation:** Fully automated home running [Home Assistant](https://home-assistant.io)
-- **🖥️ Workstation:** [MacBook Pro M2 Max](https://www.apple.com/macbook-pro/) · [Alienware 32" 4K@240Hz](https://www.rtings.com/monitor/reviews/dell/alienware-aw3225qf) · [LG UltraFine 27" 5K@60Hz](https://www.lg.com/us/monitors/lg-27md5kl-b-5k-uhd-led-monitor)
+- **🖥️ Workstation:** [AMD Ryzen 9 9950X3D](https://www.amd.com/en/products/processors/desktops/ryzen/amd-ryzen-9-9950x3d) · [NVIDIA GeForce RTX 5090](https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5090/) · 96 GB DDR5 6400 MT/s · [NixOS](https://nixos.org/) · [Hyprland](https://hypr.land/)
+- **💻 Laptop:** [MacBook Pro M2 Max](https://www.apple.com/macbook-pro/)
+- **📦 Compute Nodes:** [Beelink SER8](https://www.bee-link.com/products/beelink-ser8-8845hs) · [k3s](https://k3s.io/) · [NixOS](https://nixos.org/)
+- **🛜 Network:** [UniFi](https://ui.com) · [Tailscale](https://tailscale.com/)
 
 ## 🔄 Workflow
 
-- **💻 Execution:** [Codex](https://openai.com/codex/) · [Claude Code](https://code.claude.com/) · [Conductor](https://www.conductor.build/) · [Zed](https://zed.dev/)
+- **💻 Execution:** [Codex](https://openai.com/codex/) · [Claude Code](https://code.claude.com/) · [Zed](https://zed.dev/)
 - **✅ Review:** [CodeRabbit](https://coderabbit.ai) · [Aikido](https://aikido.dev/)
 - **📋 Planning:** [Linear](https://linear.app) · [Obsidian](https://obsidian.md) · [Excalidraw](https://excalidraw.com)
