@@ -33,13 +33,13 @@ Focus areas:
 
 ## 🔄 Workflow
 
-- 💻 **Execution:** [Codex](https://openai.com/codex/) · [Claude Code](https://code.claude.com/) · [Zed](https://zed.dev/)
+- 💻 **Execution:** [Zed](https://zed.dev/) · [Pi Agent](https://github.com/badlogic/pi-mono) · [GPT-5.3](https://openai.com/gpt-5/) · [Claude Opus 4.6](https://www.anthropic.com/claude/opus)
 - ✅ **Review:** [CodeRabbit](https://coderabbit.ai) · [Aikido](https://aikido.dev/)
 - 📋 **Planning:** [Linear](https://linear.app) · [Obsidian](https://obsidian.md) · [Excalidraw](https://excalidraw.com)
 
 ## 🏠 Home Lab
 
-- 🖥️ **Workstation:** [AMD Ryzen 9 9950X3D](https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-9-9950x3d.html) · [NVIDIA GeForce RTX 5090](https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5090/) · [96 GB DDR5 6400 MT/s](https://www.kingston.com/en/memory/gaming/fury-renegade-ddr5) · [NixOS](https://nixos.org/) · [Hyprland](https://hypr.land/)
+- 🖥️ **Workstation:** [AMD Ryzen 9 9950X3D](https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-9-9950x3d.html) · [NVIDIA GeForce RTX 5090](https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5090/) · [NixOS](https://nixos.org/) · [Hyprland](https://hypr.land/)
 - 💻 **Laptop:** [MacBook Pro M2 Max](https://www.apple.com/macbook-pro/)
 - 📦 **Compute Nodes:** [Beelink SER8](https://www.bee-link.com/products/beelink-ser8-8845hs) · [k3s](https://k3s.io/) · [NixOS](https://nixos.org/)
 - 🛜 **Network:** [UniFi](https://ui.com) · [Tailscale](https://tailscale.com/)
