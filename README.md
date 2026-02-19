@@ -18,9 +18,10 @@ Focus areas:
 
 - 🌙 **[Moonrise Labs](https://www.moonriselabs.ai)** - Technical leadership and agentic engineering for startups in energy, finance, and healthcare
 - 🤖 **Emma** - An LLM-powered conversational [Reachy Mini](https://pollen-robotics-reachy-mini.hf.space/) app for my daughter
+- 🎙️ **[sotto](https://github.com/rbright/sotto)** - Local-first speech-to-text CLI using NVIDIA Riva + NVIDIA Parakeet to rapidly transcribe raw speech into text
 - 🗣️ **[koko](https://github.com/rbright/koko)** - Local Kokoro-82M text-to-speech CLI
-- 🔔 **[pi-notify-desktop](https://github.com/rbright/pi-notify-desktop)** - OSC desktop notifications for Pi agent turn completion
 - 🔊 **[pi-notify-koko](https://github.com/rbright/pi-notify-koko)** - Koko voice notifications for Pi agent turn completion
+- 🔔 **[pi-notify-desktop](https://github.com/rbright/pi-notify-desktop)** - OSC desktop notifications for Pi agent turn completion
 - ❄️ **[nixos-config](https://github.com/rbright/nixos-config)** - Nix configuration for NixOS and macOS
 
 ## 🛠️ Current Stack
