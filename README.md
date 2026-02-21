@@ -22,6 +22,7 @@ Focus areas:
 - 🗣️ **[koko](https://github.com/rbright/koko)** - Local Kokoro-82M text-to-speech CLI
 - 🔊 **[pi-notify-koko](https://github.com/rbright/pi-notify-koko)** - Koko voice notifications for Pi agent turn completion
 - 🔔 **[pi-notify-desktop](https://github.com/rbright/pi-notify-desktop)** - OSC desktop notifications for Pi agent turn completion
+- 📊 **[waybar-agent-usage](https://github.com/rbright/waybar-agent-usage)** - Waybar module for Codex and Claude Code usage
 - ❄️ **[nixos-config](https://github.com/rbright/nixos-config)** - Nix configuration for NixOS and macOS
 
 ## 🛠️ Current Stack
