@@ -17,10 +17,8 @@ Focus areas:
 ## 🚀 Current Projects
 
 - 🌙 **[Moonrise Labs](https://www.moonriselabs.ai)** - Technical leadership and agentic engineering for startups in energy, finance, and healthcare
-- 🤖 **Emma** - An LLM-powered conversational [Reachy Mini](https://pollen-robotics-reachy-mini.hf.space/) app for my daughter
-- 🎙️ **[sotto](https://github.com/rbright/sotto)** - Local-first speech-to-text CLI using NVIDIA Riva + NVIDIA Parakeet to rapidly transcribe raw speech into text
-- 🗣️ **[koko](https://github.com/rbright/koko)** - Local Kokoro-82M text-to-speech CLI
-- 🔊 **[pi-notify-koko](https://github.com/rbright/pi-notify-koko)** - Koko voice notifications for Pi agent turn completion
+- 🤖 **Personal Agents** - Building personal agents with [Hermes Agent](https://hermes-agent.nousresearch.com/)
+- 🤖 **Emma** - An LLM-powered early learning app for the Reachy Mini
 - 🔔 **[pi-notify-desktop](https://github.com/rbright/pi-notify-desktop)** - OSC desktop notifications for Pi agent turn completion
 - 📊 **[waybar-modules](https://github.com/rbright/waybar-modules)** - Collection of all my Waybar modules
 - ❄️ **[nixos-config](https://github.com/rbright/nixos-config)** - Nix configuration for NixOS and macOS
@@ -35,7 +33,7 @@ Focus areas:
 
 ## 🔄 Workflow
 
-- 💻 **Execution:** [Zed](https://zed.dev/) · [Pi Agent](https://github.com/badlogic/pi-mono) · [GPT-5.3](https://openai.com/gpt-5/) · [Claude Opus 4.6](https://www.anthropic.com/claude/opus)
+- 💻 **Execution:** [Zed](https://zed.dev/) · [Pi Agent](https://github.com/badlogic/pi-mono) · [GPT 5.4](https://openai.com/gpt-5/) · [Claude Opus 4.6](https://www.anthropic.com/claude/opus)
 - ✅ **Review:** [CodeRabbit](https://coderabbit.ai) · [Aikido](https://aikido.dev/)
 - 📋 **Planning:** [Linear](https://linear.app) · [Obsidian](https://obsidian.md) · [Excalidraw](https://excalidraw.com)
 
