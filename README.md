@@ -24,6 +24,7 @@ Focus areas:
 
 ![Go](https://img.shields.io/badge/-Go-2b2b2b?style=flat-square&logo=go&logoColor=00ADD8)
 ![Python](https://img.shields.io/badge/-Python-2b2b2b?style=flat-square&logo=python&logoColor=3776AB)
+![Rust](https://img.shields.io/badge/-Rust-2b2b2b?style=flat-square&logo=rust&logoColor=FFFFFF)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-2b2b2b?style=flat-square&logo=typescript&logoColor=3178C6)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-2b2b2b?style=flat-square&logo=fastapi&logoColor=009688)
 ![React](https://img.shields.io/badge/-React-2b2b2b?style=flat-square&logo=react&logoColor=61DAFB)
