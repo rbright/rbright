@@ -2,12 +2,14 @@
 
 I help companies ship products in environments where security, compliance, reliability, and cost discipline matter. I work from product definition through production release, combining hands-on engineering with strong delivery mechanics and operational controls.
 
-My workflow emphasizes automation, parallel execution, and structured guardrails. I use AI deliberately to increase throughput and reduce friction, while keeping verification, observability, and change control central to the process. The goal is simple: higher output without sacrificing correctness or long-term maintainability.
+My workflow emphasizes automation, parallel execution, and structured guardrails. I use AI deliberately to increase throughput and reduce friction, while keeping verification, observability, and change control central to the process. The goal is straightforward: higher output without sacrificing correctness or long-term maintainability.
+
+Through [Moonrise Labs](https://moonriselabs.ai) I work with operationally complex and regulated businesses, primarily in healthcare, energy, and finance, building the kind of systems where getting it wrong has real consequences.
 
 Focus areas:
 
 - Product definition and technical strategy
-- AI-augmented engineering and structured automation
+- AI-assisted engineering and structured automation
 - Distributed systems and platform architecture
 - CI/CD pipelines with enforced quality gates
 - Observability, reliability, and incident response
