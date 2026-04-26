@@ -1,20 +1,16 @@
 # Hi, I'm Ryan 👋
 
-I help companies ship products in environments where security, compliance, reliability, and cost discipline matter. I work from product definition through production release, combining hands-on engineering with strong delivery mechanics and operational controls.
+Principal engineer focused on distributed systems, platform architecture, and AI-assisted engineering with real verification discipline. I build products end-to-end: definition, architecture, implementation, CI/CD, observability, and the rest of the operational surface most projects treat as someone else's problem.
 
-My workflow emphasizes automation, parallel execution, and structured guardrails. I use AI deliberately to increase throughput and reduce friction, while keeping verification, observability, and change control central to the process. The goal is straightforward: higher output without sacrificing correctness or long-term maintainability.
+How I work:
 
-Through [Moonrise Labs](https://moonriselabs.ai) I work with operationally complex and regulated businesses, primarily in healthcare, energy, and finance, building the kind of systems where getting it wrong has real consequences.
+- Automation and parallel execution as the default delivery mode
+- Strong CI/CD with enforced quality gates. Lint, type check, test, automated review
+- Infrastructure-as-code end-to-end
+- Observability and incident response designed in, not bolted on
+- AI-assisted engineering with structured instructions, planning, and verification. Not vibes
 
-Focus areas:
-
-- Product definition and technical strategy
-- AI-assisted engineering and structured automation
-- Distributed systems and platform architecture
-- CI/CD pipelines with enforced quality gates
-- Observability, reliability, and incident response
-- Security, compliance, and audit-ready change management
-- Infrastructure design and cost control
+Through [Moonrise Labs](https://moonriselabs.ai) I work with operationally complex and regulated businesses in healthcare, energy, and finance. Most of what I build touches money, customers, regulated data, or core business workflows.
 
 ## 🚀 Current Projects
 
